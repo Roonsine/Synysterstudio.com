@@ -86,7 +86,7 @@ else:
     DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'synysterDB',
+        'NAME': 'synysterdb',
         'USER': 'roonsine',
         'PASSWORD': '@Synyster67boi',
         'HOST': 'localhost',
